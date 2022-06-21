@@ -1,0 +1,7 @@
+#welcome-section {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  align-self: center;
+  margin-top: 20%;
+}
