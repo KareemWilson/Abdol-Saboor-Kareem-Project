@@ -1,3 +1,16 @@
+*{
+  margin: 0;
+  border:0;
+}
+#welcome-section{
+  background-color: aqua;
+}
+#projects{
+  background-color: blue;
+}
+#contacts{
+  background-color: rebeccapurple;
+}
 #welcome-section {
   display: flex;
   align-items: center;
@@ -6,10 +19,21 @@
   margin-top: 20%;
 }
 
-#navbar {
+#navbar{
+  background: red;
   flex-direction: row;
+  text-decoration: none;
+  width: 100%;
+  justify-content: flex-end;
+  display: flex;
+  
+
+}
+#navbar a{
+  margin: 10px;
+  text-decoration: none;
+  font-size: large;
+  color: white;
 }
 
-#nav-list {
-  flex-direction: row;
-}
+
