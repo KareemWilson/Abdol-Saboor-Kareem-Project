@@ -5,3 +5,11 @@
   align-self: center;
   margin-top: 20%;
 }
+
+#navbar {
+  flex-direction: row;
+}
+
+#nav-list {
+  flex-direction: row;
+}
