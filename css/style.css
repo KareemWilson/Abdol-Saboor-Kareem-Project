@@ -2,13 +2,18 @@
   margin: 0;
   border:0;
 }
-#welcome-section{
+body{
   background-color: aqua;
 }
+section{
+  height: 100vh;
+
+}
+
 #projects{
   background-color: blue;
 }
-#contacts{
+#Contacts{
   background-color: rebeccapurple;
 }
 #welcome-section {
